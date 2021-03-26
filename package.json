@@ -1,7 +1,7 @@
 {
-  "name": "cmbot",
+  "name": "dudebot",
   "description": "A full featured bot for turntable.fm",
-  "version": "0.9.9",
+  "version": "0.1.0",
   "keywords": [
     "turntable.fm",
     "turntable",
@@ -9,9 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/atomjack/cmbot.git"
+    "url": "git://github.com/rschwab/dudebot.git"
   },
-  "author": "Chris Bellew <atomjack@gmail.com>",
+  "author": "Ryan Schwab (https://github.com/rschwab)",
+  "contributor": "Chris Bellew <atomjack@gmail.com>",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -20,6 +21,7 @@
     "node": "*"
   },
   "dependencies": {
+    "cmbot": "^0.9.9",
     "crypto": ">= 0.0.3",
     "dateformat": "*",
     "http-get": "*",
