@@ -1,9 +1,9 @@
-# CMBot
+# DudeBot
 
-A full featured bot for turntable.fm
+A full featured bot for turntable.fm, forked from atomjack's cmbot.
 
 ## Installation
-	npm install cmbot
+	npm install dudebot
 
 ## Features
 * If desired, your bot will enforce a queue, as well as a configurable number of songs each DJ is allowed to play before the bot escorts them down, to give others a chance to DJ.
